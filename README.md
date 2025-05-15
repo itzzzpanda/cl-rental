@@ -1,6 +1,6 @@
 # 🚗 cl-rental
 
-A **vehicle rental menu** inspired by **NoPixel 4.0** – featuring a modern and sleek UI built on the same base layout. Perfect for any **QBCore** FiveM server looking to offer players an immersive and stylish way to rent vehicles across the map.
+A **vehicle rental menu** inspired by **NoPixel 4.0** – featuring a modern and sleek UI built on the same base layout.
 
 ---
 
@@ -35,9 +35,9 @@ A **vehicle rental menu** inspired by **NoPixel 4.0** – featuring a modern and
     ensure cl-rental
     ```
 4. **Configure the script in `config.lua`:**
- - Add rental locations
- - Choose your preferred target or TextUI system
- - Define available vehicles per location
+  - Add rental locations
+  - Choose your preferred target or TextUI system
+  - Define available vehicles per location
 
 ## 📂 Dependencies
  - [ox_lib](https://github.com/overextended/ox_lib/releases/latest)
