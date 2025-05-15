@@ -1,0 +1,27 @@
+{
+    "success": {
+        "paid": "You paid %s for the rental vehicle"
+    },
+    "error": {
+        "not_enough": "You don't have enough money to buy this vehicle"
+    },
+    "textui": {
+        "open": "[E] Open Rent Menu"
+    },
+    "target": {
+        "open": "Open Rent Menu"
+    },
+    "ui": {
+        "header": "AUTO RENTAL",
+        "alt": "Rent a Vehicle",
+        "timeRent": "Rental Time",
+        "timeRent_alt": "Select how long would you like to have the vehicle for",
+        "payment": "Payment",
+        "totalPrice": "Total Price",
+        "payBank": "Pay with Card",
+        "payCash": "Pay with Cash",
+        "no_day_selected": "N/A",
+        "day": "day",
+        "days": "days"
+    }
+}

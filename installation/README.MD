@@ -1,0 +1,1 @@
+Documentation Website: https://docs.clinky.dev/paid-resources/rental-menu/installation
