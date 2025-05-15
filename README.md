@@ -25,13 +25,9 @@ A **vehicle rental menu** inspired by **NoPixel 4.0** – featuring a modern and
 
 ## 🔧 Installation
 
-1. **Download or clone** this repository:
-   ```bash
-   git clone https://github.com/itzzzpanda/cl-rental.git
-    ```
+1. **Download** the latest release by following this [link](https://github.com/itzzzpanda/cl-rental/releases/latest)
 2. **Place it inside your `resources` folder.**
 3. **Add to your `server.cfg`:**
-    ```cfg
     ensure cl-rental
     ```
 4. **Configure the script in `config.lua`:**
