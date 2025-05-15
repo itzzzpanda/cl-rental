@@ -35,9 +35,9 @@ A **vehicle rental menu** inspired by **NoPixel 4.0** – featuring a modern and
     ensure cl-rental
     ```
 4. **Configure the script in `config.lua`:**
-  - Add rental locations
-  - Choose your preferred target or TextUI system
-  - Define available vehicles per location
+   - Add rental locations
+   - Choose your preferred target or TextUI system
+   - Define available vehicles per location
 
 ## 📂 Dependencies
  - [ox_lib](https://github.com/overextended/ox_lib/releases/latest)
@@ -46,4 +46,4 @@ A **vehicle rental menu** inspired by **NoPixel 4.0** – featuring a modern and
 Feel free to open issues or submit PRs to improve or extend functionality. Suggestions and contributions are always welcome.
 
 ## 📜 License
-This project is released under the [MIT License](https://github.com/itzzzpanda/cl-rental/blob/main/LICENSE)
+This project is released under the [MIT License](https://github.com/itzzzpanda/cl-rental?tab=MIT-1-ov-file)
